@@ -1,0 +1,10 @@
+---
+slug: :mikurome
+depends:
+  mikutter: 3.5.4
+  plugin:
+  - gui
+version: '1.0'
+author: Atnanasi 
+name: mikurome
+description: mikutterでｲﾝﾀﾊｧﾈｯﾄを見たいアナタへ
